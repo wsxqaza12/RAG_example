@@ -1,0 +1,8 @@
+ipykernel
+ipywidgets
+langchain
+PyMuPDF
+chromadb
+sentence-transformers
+llama-cpp-python
+openai
